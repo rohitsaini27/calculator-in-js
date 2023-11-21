@@ -1,1 +1,1 @@
-# calculator-in-js this is a calculator project built with the help of html, css, javascript
+# calculator-in-js this is a calculator project built with the help of html, css, javascript hello welcome to coding mania
